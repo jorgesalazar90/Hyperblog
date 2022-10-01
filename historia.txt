@@ -1,1 +1,2 @@
- Estamos creando un archivo de prueba como ejemplo.
+ Estamos creando un archivo de prueba como ejemplo. 
+ He añadido esta nueva línea para probar el guardado de versiones.
