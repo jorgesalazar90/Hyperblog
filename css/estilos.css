@@ -1,6 +1,21 @@
-body
+body 
 {
+    color: #333;
     text-align: center;
     font-family: "Arial";
-    color: deeppink;
 }
+
+#container
+{
+    width: 50%;
+    padding: 1em;
+    text-align: center;
+    border: 6px solid #ddd;
+    margin: 0 auto;
+}
+
+#container h1
+{
+    font-size: 20px;
+}
+
